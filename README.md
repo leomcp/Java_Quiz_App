@@ -1,5 +1,5 @@
 # JavaQuizApp
-  JavaQuizApp is the java desktop application developed using Java Netbeans IDE. The project was developed while organising my college event "Code Zilla" at Fusion 2015, as first selection round. The Codezilla was a intercollege level coding competetion event organised at PVPP college of engineering 2015. 
+  JavaQuizApp is the java swing application developed using Java Netbeans IDE. The project was developed while organising my college event "Code Zilla" at Fusion 2015, as first selection round. The Codezilla was a intercollege level coding competetion event organised at PVPP college of engineering 2015. 
   
 ## JavaQuizApp Screenshots :
 
