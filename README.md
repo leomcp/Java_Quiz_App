@@ -1,6 +1,7 @@
 # JavaQuizApp
-
-## A java quiz application game build in Netbeans IDE.
+  JavaQuizApp is the java desktop application developed using Java Netbeans IDE. The project was developed while organising my college event "Code Zilla" at Fusion 2015, as first selection round. The Codezilla was a intercollege level coding competetion event organised at PVPP college of engineering 2015. 
+  
+## JavaQuizApp Screenshots :
 
 ![javaquizstartpage](https://cloud.githubusercontent.com/assets/11054880/21309473/8a60c178-c604-11e6-9562-ddbd84baa0cc.png)
 
